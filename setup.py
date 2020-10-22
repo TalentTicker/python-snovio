@@ -13,11 +13,8 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
 
-    author='Miguel Marques',
-    author_email='miguelcdpmarques@gmail.com',
-
-    url='http://github.com/miguelcdpmarques/python-snovio',
-    download_url='https://github.com/miguelcdpmarques/python-snovio/archive/0.1.0.tar.gz',
+    url='https://github.com/TalentTicker/pip_stable',
+    author='Talent Ticker',
 
     include_package_data=True,
 
